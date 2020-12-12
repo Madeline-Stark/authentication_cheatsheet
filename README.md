@@ -16,4 +16,4 @@
 - [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html)
 - [Hashing vs Encryption](https://www.thesslstore.com/blog/difference-encryption-hashing-salting/)
 - [Cookies vs Sessions](https://web.stanford.edu/~ouster/cgi-bin/cs142-fall10/lecture.php?topic=cookie)
-- [dotenv](https://github.com/bkeepers/dotenvhttps://github.com/bkeepers/dotenv)
+- [dotenv](https://github.com/bkeepers/dotenv)
